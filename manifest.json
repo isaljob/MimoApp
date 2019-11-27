@@ -1,0 +1,15 @@
+{
+    "name": "MimoHijaiyah",
+    "short_name": "Mimo",
+    "description": "Aplikasi PWA bernama Mimo Hijaiyah untuk belajar mengaji",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#4a148c",
+    "theme_color": "#4a148c",
+    "icons": [{
+        "src": "mimo-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}

@@ -1,0 +1,65 @@
+.flex-container {
+    border-style: solid;
+    border: 1px;
+    display: flexbox;
+}
+
+.induk {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+}
+
+h2,
+h3,
+h6 {
+    color: #4A148C;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.kosong {
+    width: 128px;
+    height: 128px;
+    /* background-color: black;
+    border-width: 1px;
+    border-color: black; */
+}
+
+.a,
+.ba,
+.ta,
+.tsa,
+.ja,
+.ha,
+.kho,
+.da,
+.dza,
+.ra,
+.za,
+.sa,
+.sya,
+.sha,
+.dha,
+.tha,
+.zha,
+.ain,
+.ghin,
+.fa,
+.qo,
+.ka,
+.la,
+.ma,
+.na,
+.wa,
+.haa,
+.hamzah,
+.ya,
+.lamAlif {
+    border-radius: 50%;
+}
